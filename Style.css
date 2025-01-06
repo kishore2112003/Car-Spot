@@ -461,67 +461,6 @@ button:hover{
     }
 }
 
-@media screen and (max-width: 320px){
-    .till{
-        padding-left: 50px;
-    }
-
-    .navbar{
-        display: flex;
-        justify-content:end;
-        padding-left: 5rem;
-    }
-    .navbar li{
-        font-size: 1.3rem;
-    }
-    .image-1{
-        margin-top: 30%;
-        display: flex;
-        align-items: center;
-        justify-content: start;
-        z-index: -1;
-    }
-    .red{
-        width: 500%;
-        opacity: 50%;
-        margin-left: -220%;
-    }
-
-    .content {
-        width: 100%;
-        padding: 1rem;
-        align-items: center;
-    }
-
-    .content p{
-        width: 200%;
-        display: flex;
-        font-size: 1rem;
-        justify-content: center;
-    }
-    .about{
-        max-width: 100%; 
-    }
-    .about-text h2{
-        text-align: center;
-    }
-    .about-text p{
-        text-align: center;
-        width: 300%;
-    }
-    .about-text {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .about-img img{
-        width: 100%;
-    }
-    
-}
-
 
 
 
